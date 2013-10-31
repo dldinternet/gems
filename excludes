@@ -1,0 +1,6 @@
+sync.sh
+excludes
+.git/
+.git*
+.ruby-*
+.idea
